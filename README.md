@@ -2,5 +2,6 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/TareqB1/lab-02-vid/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/TareqB1/lab-02-vid/tree/main)
 
+[![codecov](https://codecov.io/gh/TareqB1/lab-02-vid/branch/main/graph/badge.svg?token=HQG66FT87Z)](https://codecov.io/gh/TareqB1/lab-02-vid)
 
-Testing.....
+.
