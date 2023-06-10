@@ -1,9 +1,9 @@
 package sa.edu.kau.fcit.cpit252;
 
 
-import org.junit.Test;
-import sa.edu.kau.fcit.cpit252.logging.Logger;
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
+import sa.edu.kau.fcit.cpit252.logging.Logger;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
