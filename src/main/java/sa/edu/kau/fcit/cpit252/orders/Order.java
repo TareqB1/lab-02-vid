@@ -8,18 +8,14 @@ import java.time.LocalDate;
 public class Order {
     private int orderNumber;
     private LocalDate orderDate;
-    private Logger log = new Logger();
+    private Logger log = Logger.getLoggerInstance();
     private int getRandomNumber(){
         Random ran = new Random();
         return ran.nextInt(Integer.MAX_VALUE);
     }
     public Order(){
         // Emulate slow initialization.
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException ex) {
-            ex.printStackTrace();
-        }
+
         try {
             Thread.sleep(2000);
         } catch (InterruptedException ex) {
